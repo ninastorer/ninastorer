@@ -1,0 +1,83 @@
+body{
+  text-align: center;
+}
+.square{
+  height: 230px;
+  width: 230px;
+  margin: 3px;
+  display: inline-block;
+  background-size: contain;
+}
+
+.row{
+    text-align: center;
+}
+
+.heading{
+  display:block;
+  font-family: 'Amatica SC', cursive;
+  font-size: 35px;
+}
+
+.square1{
+  background-image: url("Images/tile1.jpg");
+}
+.square1:hover{
+  background-image: url("Images/birthday.jpg");
+}
+
+.square6{
+  background-image: url("Images/tile6.jpg");
+}
+.square6:hover{
+  background-image: url("Images/bedroom.jpg");
+}
+
+.square4{
+  background-image: url("Images/tile4.jpg");
+}
+.square4:hover{
+  background-image: url("Images/lush.jpg");
+}
+
+.square2{
+  background-image: url("Images/tile2.jpg");
+}
+.square2:hover{
+  background-image: url("Images/zephyr.jpg");
+}
+
+.square8{
+  background-image: url("Images/tile8.jpg");
+}
+.square8:hover{
+  background-image: url("Images/gifts.jpg");
+}
+
+.square5{
+  background-image: url("Images/tile5.jpg");
+}
+.square5:hover{
+  background-image: url("Images/breakfast.jpg");
+}
+
+.square9{
+  background-image: url("Images/tile9.jpg");
+}
+.square9:hover{
+  background-image: url("Images/drawing.jpg");
+}
+
+.square3{
+  background-image: url("Images/tile3.jpg");
+}
+.square3:hover{
+  background-image: url("Images/closedeye.jpg");
+}
+
+.square7{
+  background-image: url("Images/tile7.jpg");
+}
+.square7:hover{
+  background-image: url("Images/candles.jpg");
+}
